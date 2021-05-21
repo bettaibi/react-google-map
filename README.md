@@ -1,6 +1,6 @@
 # react-google-map
 
-### this repository illustrate the following:
+### This repository illustrate the following:
 
 * Building interactive maps.
 * Using the GoogleMap component.
